@@ -1,8 +1,8 @@
 # Program Kalkulator Sederhana dengan Python
-
+print("\n===========Program Kalkulator Sederhana dan Data List Python ==========")
 # Input angka dari pengguna
-A = int(input("Masukkan angka pertama: "))
-B = int(input("Masukkan angka kedua: "))
+A = int(input("Masukkan angka pertama (A): ")) 
+B = int(input("Masukkan angka kedua(B): "))
 
 # Operasi Matematika
 penjumlahan = A + B
